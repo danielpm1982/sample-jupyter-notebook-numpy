@@ -1,7 +1,7 @@
 # sample-jupyter-notebook-numpy
 This is a Jupyter Notebook that shows the basics about how to use NumPy lib along with Anaconda managed environments
 
-© 2023 Daniel Pinheiro Maia All Rights Reserved<br>
+© 2025 Daniel Pinheiro Maia All Rights Reserved<br>
 (see Copyright© License at the end of this text).
 
 [**Description of this repository**]<br>
